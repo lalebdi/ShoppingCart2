@@ -3,7 +3,7 @@
 
 
 
-// resources are updated in the background.
+
 
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
