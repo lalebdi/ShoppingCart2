@@ -2,7 +2,7 @@
 
 
 
-// existing tabs open on the page have been closed, since previously cached
+
 // resources are updated in the background.
 
 const isLocalhost = Boolean(
