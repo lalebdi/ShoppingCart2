@@ -1,4 +1,4 @@
-This was done by following the tutorial in the :
+This was done by following the tutorial in  :
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
