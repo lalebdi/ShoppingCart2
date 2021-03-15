@@ -1,7 +1,7 @@
 
 
 
-This project was bootstrapped  .
+This project was   .
 
 
 
